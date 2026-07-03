@@ -1,0 +1,27 @@
+{
+  "project": {
+    "name": "AEOS",
+    "version": "0.1.0",
+    "description": "Autonomous Engineering Operating System",
+    "license": "MIT"
+  },
+  "runtime": {
+    "node": ">=20",
+    "typescript": true,
+    "python": true
+  },
+  "architecture": {
+    "core": "plugin-first",
+    "memory": true,
+    "router": true,
+    "agents": true,
+    "workflows": true
+  },
+  "models": {
+    "primary": "gemini",
+    "fallback": []
+  },
+  "plugins": {
+    "enabled": []
+  }
+}
