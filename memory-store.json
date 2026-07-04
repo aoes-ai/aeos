@@ -3,5 +3,10 @@
     "id": "memory-001",
     "key": "startup",
     "value": "AEOS initialized successfully"
+  },
+  {
+    "id": "memory-1783066098070",
+    "key": "last-response",
+    "value": "Mock response: Hello AEOS, introduce yourself."
   }
 ]
